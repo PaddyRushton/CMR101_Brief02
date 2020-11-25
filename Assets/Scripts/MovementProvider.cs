@@ -9,7 +9,7 @@ public class MovementProvider : LocomotionProvider
     private CharacterController characterController = null;
     private GameObject head = null;
 
-    public float speed = 5.0f;
+    public float speed = 10.0f;
     public float gravityMultiply = 1.0f;
 
     protected override void Awake()

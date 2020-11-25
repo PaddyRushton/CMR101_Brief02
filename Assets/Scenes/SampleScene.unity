@@ -1547,8 +1547,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 983264263}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 121.3, y: 23.75, z: 21.9}
-  m_LocalScale: {x: 102.06645, y: -0.5816835, z: 71.57168}
+  m_LocalPosition: {x: 121.3, y: 21.76, z: 21.9}
+  m_LocalScale: {x: 102.06645, y: -3.789235, z: 71.57168}
   m_Children: []
   m_Father: {fileID: 927235597}
   m_RootOrder: 9
@@ -2205,8 +2205,8 @@ MonoBehaviour:
   m_EnableInputActions: 1
   m_PoseProvider: {fileID: 0}
   m_ControllerNode: 5
-  m_SelectUsage: 3
-  m_ActivateUsage: 4
+  m_SelectUsage: 2
+  m_ActivateUsage: 3
   m_UIPressUsage: 2
   m_AxisToPressThreshold: 0.1
   m_ModelPrefab: {fileID: 0}
@@ -3084,7 +3084,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1864039907}
   m_LocalRotation: {x: -0, y: 0.4052563, z: -0, w: 0.9142031}
-  m_LocalPosition: {x: 95.59, y: 19.51, z: 35.71}
+  m_LocalPosition: {x: 94.74, y: 19.51, z: 34.94}
   m_LocalScale: {x: 42.27286, y: -6.2560062, z: 16.90881}
   m_Children: []
   m_Father: {fileID: 927235597}
@@ -3616,8 +3616,8 @@ MonoBehaviour:
   m_EnableInputActions: 1
   m_PoseProvider: {fileID: 0}
   m_ControllerNode: 4
-  m_SelectUsage: 3
-  m_ActivateUsage: 2
+  m_SelectUsage: 2
+  m_ActivateUsage: 3
   m_UIPressUsage: 2
   m_AxisToPressThreshold: 0.1
   m_ModelPrefab: {fileID: 0}
